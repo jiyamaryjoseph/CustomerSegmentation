@@ -1,2 +1,6 @@
 # Exploratory-Data-Analysis
- I am currently engaged in exploratory data analysis (EDA), which serves to glean insights from the data for both present understanding and informing future predictions using AI algorithms.
+
+![image](https://github.com/jiyamaryjoseph/CustomerSegmentation_Exploratory-Data-Analysis/assets/83010684/98b493ee-6d14-48b8-b264-7a0d910e6df7)
+
+Customer segmentation is the process of dividing customers into groups or segments based on similar characteristics such as demographics, behavior, preferences, or buying patterns. This segmentation allows businesses to better understand their customers and tailor marketing strategies, product offerings, and customer service to meet the specific needs of each segment. 
+
